@@ -2,25 +2,25 @@
   {
     "name": "Coffee",
     "image_url":
-        "https://images.unsplash.com/photo-1556228726-71e6ff32a24c",
+        "https://res.cloudinary.com/the-infatuation/image/upload/v1678299906/images/WalktoWork_URLCoffee_Seattle_NateWatters-2442_idccmt.jpg",
     "price": 2.99
   },
   {
     "name": "Latte",
     "image_url":
-        "https://images.unsplash.com/photo-1527153036964-93e31d91c74f",
+        "https://res.cloudinary.com/the-infatuation/image/upload/v1678299906/images/WalktoWork_URLCoffee_Seattle_NateWatters-2442_idccmt.jpg",
     "price": 3.99
   },
   {
     "name": "Espresso",
     "image_url":
-        "https://images.unsplash.com/photo-1561565313-14082b3e75c0",
+        "https://res.cloudinary.com/the-infatuation/image/upload/v1678299906/images/WalktoWork_URLCoffee_Seattle_NateWatters-2442_idccmt.jpg",
     "price": 2.49
   },
   {
     "name": "Cappuccino",
     "image_url":
-        "https://images.unsplash.com/photo-1541557436917-5fd8b599a1d5",
+        "https://res.cloudinary.com/the-infatuation/image/upload/v1678299906/images/WalktoWork_URLCoffee_Seattle_NateWatters-2442_idccmt.jpg",
     "price": 3.49
   }
 ]
