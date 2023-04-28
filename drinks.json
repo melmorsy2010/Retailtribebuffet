@@ -1,36 +1,30 @@
 {
-    "phone": "whatsapp://send?phone=201011937796",
-[
-  {
-    "name": " شيبسى جبنة ",
-    "image_url":
-        "https://www.albayan.ae/polopoly_fs/1.4594087.1673119119!/image/image.JPG",
-    "price": 5
-  },
-  {
-    "name": "شيبسى كباب",
-    "image_url":
-        "https://www.albayan.ae/polopoly_fs/1.4594087.1673119119!/image/image.JPG",
-    "price": 10
-  },
-  {
-    "name": "بسكوت سادة",
-    "image_url":
-        "https://res.cloudinary.com/the-infatuation/image/upload/v1678299906/images/WalktoWork_URLCoffee_Seattle_NateWatters-2442_idccmt.jpg",
-    "price": 7
-  },
-  {
-    "name": "هوهوز",
-    "image_url":
-        "https://res.cloudinary.com/the-infatuation/image/upload/v1678299906/images/WalktoWork_URLCoffee_Seattle_NateWatters-2442_idccmt.jpg",
-    "price": 5
-  },
-  {
-    "name": "بسكريم",
-    "image_url":
-        "https://media.gemini.media/img/Original/2022/6/5/2022_6_5_15_58_24_133.jpg",
-    "price": 5
-  }
-  
-]
+  "phone": "whatsapp://send?phone=201011937796",
+  "items": [
+    {
+      "name": " شيبسى جبنة ",
+      "image_url": "https://www.albayan.ae/polopoly_fs/1.4594087.1673119119!/image/image.JPG",
+      "price": 5
+    },
+    {
+      "name": "شيبسى كباب",
+      "image_url": "https://www.albayan.ae/polopoly_fs/1.4594087.1673119119!/image/image.JPG",
+      "price": 10
+    },
+    {
+      "name": "بسكوت سادة",
+      "image_url": "https://res.cloudinary.com/the-infatuation/image/upload/v1678299906/images/WalktoWork_URLCoffee_Seattle_NateWatters-2442_idccmt.jpg",
+      "price": 7
+    },
+    {
+      "name": "هوهوز",
+      "image_url": "https://res.cloudinary.com/the-infatuation/image/upload/v1678299906/images/WalktoWork_URLCoffee_Seattle_NateWatters-2442_idccmt.jpg",
+      "price": 5
+    },
+    {
+      "name": "بسكريم",
+      "image_url": "https://media.gemini.media/img/Original/2022/6/5/2022_6_5_15_58_24_133.jpg",
+      "price": 5
+    }
+  ]
 }
