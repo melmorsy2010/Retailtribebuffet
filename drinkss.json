@@ -1,21 +1,21 @@
 [
   {
-    "name": "Coffee",
+    "name": "قهوه فرنساوى",
     "image_url":
         "https://res.cloudinary.com/the-infatuation/image/upload/v1678299906/images/WalktoWork_URLCoffee_Seattle_NateWatters-2442_idccmt.jpg",
-    "price": 2.99
+    "price": 15
   },
   {
-    "name": "Latte",
+    "name": "لاتية",
     "image_url":
         "https://res.cloudinary.com/the-infatuation/image/upload/v1678299906/images/WalktoWork_URLCoffee_Seattle_NateWatters-2442_idccmt.jpg",
-    "price": 3.99
+    "price": 20
   },
   {
-    "name": "Espresso",
+    "name": "اسبريسو",
     "image_url":
         "https://res.cloudinary.com/the-infatuation/image/upload/v1678299906/images/WalktoWork_URLCoffee_Seattle_NateWatters-2442_idccmt.jpg",
-    "price": 2.49
+    "price": 30
   },
   {
     "name": "Cappuccino",
