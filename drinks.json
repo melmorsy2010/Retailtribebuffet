@@ -1,1 +1,32 @@
-
+[
+  {
+    "name": "شيبسى",
+    "image_url":
+        "https://www.albayan.ae/polopoly_fs/1.4594087.1673119119!/image/image.JPG",
+    "price": 15
+  },
+  {
+    "name": "شيبسى",
+    "image_url":
+        "https://www.albayan.ae/polopoly_fs/1.4594087.1673119119!/image/image.JPG",
+    "price": 20
+  },
+  {
+    "name": "شيبسى",
+    "image_url":
+        "https://res.cloudinary.com/the-infatuation/image/upload/v1678299906/images/WalktoWork_URLCoffee_Seattle_NateWatters-2442_idccmt.jpg",
+    "price": 30
+  },
+  {
+    "name": "كابتشينو",
+    "image_url":
+        "https://res.cloudinary.com/the-infatuation/image/upload/v1678299906/images/WalktoWork_URLCoffee_Seattle_NateWatters-2442_idccmt.jpg",
+    "price": 3.49
+  },
+  {
+    "name": "شاى نعناع",
+    "image_url":
+        "https://media.gemini.media/img/Original/2022/6/5/2022_6_5_15_58_24_133.jpg",
+    "price": 3.49
+  }
+]
