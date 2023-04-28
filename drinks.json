@@ -1,32 +1,32 @@
 [
   {
-    "name": "شيبسى",
+    "name": " شيبسى جبنة ",
     "image_url":
         "https://www.albayan.ae/polopoly_fs/1.4594087.1673119119!/image/image.JPG",
-    "price": 15
+    "price": 5
   },
   {
-    "name": "شيبسى",
+    "name": "شيبسى كباب",
     "image_url":
         "https://www.albayan.ae/polopoly_fs/1.4594087.1673119119!/image/image.JPG",
-    "price": 20
+    "price": 10
   },
   {
-    "name": "شيبسى",
+    "name": "بسكوت سادة",
     "image_url":
         "https://res.cloudinary.com/the-infatuation/image/upload/v1678299906/images/WalktoWork_URLCoffee_Seattle_NateWatters-2442_idccmt.jpg",
-    "price": 30
+    "price": 7
   },
   {
-    "name": "كابتشينو",
+    "name": "هوهوز",
     "image_url":
         "https://res.cloudinary.com/the-infatuation/image/upload/v1678299906/images/WalktoWork_URLCoffee_Seattle_NateWatters-2442_idccmt.jpg",
-    "price": 3.49
+    "price": 5
   },
   {
-    "name": "شاى نعناع",
+    "name": "بسكريم",
     "image_url":
         "https://media.gemini.media/img/Original/2022/6/5/2022_6_5_15_58_24_133.jpg",
-    "price": 3.49
+    "price": 5
   }
 ]
