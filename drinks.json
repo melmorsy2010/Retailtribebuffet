@@ -11,12 +11,7 @@
         "https://www.albayan.ae/polopoly_fs/1.4594087.1673119119!/image/image.JPG",
     "price": 10
   },
-  {
-    "name": "بسكوت سادة",
-    "image_url":
-        "https://res.cloudinary.com/the-infatuation/image/upload/v1678299906/images/WalktoWork_URLCoffee_Seattle_NateWatters-2442_idccmt.jpg",
-    "price": 7
-  },
+ 
   {
     "name": "هوهوز",
     "image_url":
