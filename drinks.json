@@ -23,23 +23,23 @@
     "image_url":
         "https://m.media-amazon.com/images/I/51wvO3rAcvL.jpg",
     "price": 5
-  }
+  },
     {
     "name": "SNIKERS",
     "image_url":
         "https://www.snickers.com/sites/g/files/fnmzdf616/files/migrate-product-files/dryeqrv2efldaaoyceat.png",
     "price": 5
-  }
+  },
     {
     "name": "HOHOS EXTREME",
     "image_url":
         "https://edita.com.eg/wp-content/uploads/2021/03/HoHos-Extreme-300x450-1.png",
     "price": 5
-  }
+  },
  {
     "name": "Galaxy",
     "image_url":
         "https://m.media-amazon.com/images/I/61TN-njXHES.jpg",
     "price": 5
-  }
+  },
 ]
