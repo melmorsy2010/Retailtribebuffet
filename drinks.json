@@ -1,45 +1,37 @@
 [
   {
     "name": " OREO ",
-    "image_url":
-        "https://i5.walmartimages.com/asr/01ee6a8d-7089-4665-885e-0212dfc3ce3c.016ed271e63cb74463316ccf8aa42405.jpeg",
+    "image_url": "https://i5.walmartimages.com/asr/01ee6a8d-7089-4665-885e-0212dfc3ce3c.016ed271e63cb74463316ccf8aa42405.jpeg",
     "price": 5
   },
   {
     "name": "Ulker",
-    "image_url":
-        "https://cdnprod.mafretailproxy.com/sys-master-root/he4/h93/47467582816286/1700Wx1700H_479699_main.jpg",
+    "image_url": "https://cdnprod.mafretailproxy.com/sys-master-root/he4/h93/47467582816286/1700Wx1700H_479699_main.jpg",
     "price": 10
   },
- 
   {
     "name": "HOHOS Mix",
-    "image_url":
-        "https://mir-s3-cdn-cf.behance.net/projects/404/5f6936156025231.Y3JvcCw5NTUsNzQ3LDI0MSww.jpg",
+    "image_url": "https://mir-s3-cdn-cf.behance.net/projects/404/5f6936156025231.Y3JvcCw5NTUsNzQ3LDI0MSww.jpg",
     "price": 5
   },
   {
     "name": "Loacker",
-    "image_url":
-        "https://m.media-amazon.com/images/I/51wvO3rAcvL.jpg",
+    "image_url": "https://m.media-amazon.com/images/I/51wvO3rAcvL.jpg",
     "price": 5
   },
-    {
+  {
     "name": "SNIKERS",
-    "image_url":
-        "https://www.snickers.com/sites/g/files/fnmzdf616/files/migrate-product-files/dryeqrv2efldaaoyceat.png",
+    "image_url": "https://www.snickers.com/sites/g/files/fnmzdf616/files/migrate-product-files/dryeqrv2efldaaoyceat.png",
     "price": 5
   },
-    {
+  {
     "name": "HOHOS EXTREME",
-    "image_url":
-        "https://edita.com.eg/wp-content/uploads/2021/03/HoHos-Extreme-300x450-1.png",
+    "image_url": "https://edita.com.eg/wp-content/uploads/2021/03/HoHos-Extreme-300x450-1.png",
     "price": 5
   },
- {
+  {
     "name": "Galaxy",
-    "image_url":
-        "https://m.media-amazon.com/images/I/61TN-njXHES.jpg",
+    "image_url": "https://m.media-amazon.com/images/I/61TN-njXHES.jpg",
     "price": 5
-  },
+  }
 ]
