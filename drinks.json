@@ -29,6 +29,13 @@
     "image_url": "https://edita.com.eg/wp-content/uploads/2021/03/HoHos-Extreme-300x450-1.png",
     "price": 5
   },
+    {
+    "name": "Cheetos",
+    "image_url": "https://cdnprod.mafretailproxy.com/sys-master-root/h57/hbc/27691789877278/511790_main.jpg_480Wx480H",
+    "price": 5
+  },
+  
+  
   {
     "name": "Galaxy",
     "image_url": "https://m.media-amazon.com/images/I/61TN-njXHES.jpg",
