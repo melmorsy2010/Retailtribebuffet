@@ -6,23 +6,40 @@
     "price": 5
   },
   {
-    "name": "شيبسى كباب",
+    "name": "Ulker",
     "image_url":
         "https://www.albayan.ae/polopoly_fs/1.4594087.1673119119!/image/image.JPG",
     "price": 10
   },
  
   {
-    "name": "هوهوز",
+    "name": "HOHOS Mix",
     "image_url":
         "https://m.media-amazon.com/images/S/aplus-media/sota/d7278f32-e780-42a2-a608-4af8e78edf4b.__CR0,0,970,600_PT0_SX970_V1___.jpg",
     "price": 5
   },
   {
-    "name": "بسكريم",
+    "name": "Loacker",
     "image_url":
         "https://ngzny.com/wp-content/uploads/2022/03/29a95c7e43b2db883a7292aed6e8d666c91d3351.jpg",
     "price": 5
   }
-  
+    {
+    "name": "SNIKERS",
+    "image_url":
+        "https://ngzny.com/wp-content/uploads/2022/03/29a95c7e43b2db883a7292aed6e8d666c91d3351.jpg",
+    "price": 5
+  }
+    {
+    "name": "HOHOS EXTREME",
+    "image_url":
+        "https://ngzny.com/wp-content/uploads/2022/03/29a95c7e43b2db883a7292aed6e8d666c91d3351.jpg",
+    "price": 5
+  }
+ {
+    "name": "Galaxy",
+    "image_url":
+        "https://ngzny.com/wp-content/uploads/2022/03/29a95c7e43b2db883a7292aed6e8d666c91d3351.jpg",
+    "price": 5
+  }
 ]
