@@ -136,7 +136,30 @@
         "https://img.youm7.com/ArticleImgs/2019/8/8/65600-%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%B9%D9%85%D9%84-%D8%B9%D8%B5%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D9%81%D9%88%D9%83%D8%A7%D8%AF%D9%88.jpg",
     "price": 40
   },
-   
+    {
+    "name": " كانز فيروز",
+    "image_url":
+        "https://cdnprod.mafretailproxy.com/sys-master-root/h66/hae/9856396623902/3845_1.jpg_480Wx480H",
+    "price": 40
+  },
+       {
+    "name": " كانز بيبسى",
+    "image_url":
+        "https://images.spinneys.net/product/8033/WOEuDh9QvnU5qjrpCljyX3Vv2ADoDJBTKSMcTG0F.jpg",
+    "price": 40
+  },
+        {
+    "name": "Redbull",
+    "image_url":
+        "https://m.media-amazon.com/images/I/61TA5RC0yKL.jpg",
+    "price": 40
+  },
+     {
+    "name": "مياه معدنية",
+    "image_url":
+        "https://www.nestlepurelife.com/lb/sites/g/files/xknfdk496/files/0.6l%20Medium-Pure-Quality-Water.png_.png",
+    "price": 40
+  },
    
   {
     "name": "قهوه فرنساوى",
