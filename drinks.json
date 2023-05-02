@@ -5,11 +5,22 @@
     "price": 0
   },
   {
-    "name": "Ulker",
-    "image_url": "https://cdnprod.mafretailproxy.com/sys-master-root/he4/h93/47467582816286/1700Wx1700H_479699_main.jpg",
-    "price": 10
+    "name": "Fun day cake",
+    "image_url": "https://cdnprod.mafretailproxy.com/sys-master-root/h37/h13/27326075994142/534976_2.jpg_480Wx480H",
+    "price": 0
+  },
+   {
+    "name": "Ulker Tamr",
+    "image_url": "https://cdnprod.mafretailproxy.com/sys-master-root/h37/h13/27326075994142/534976_2.jpg_480Wx480H",
+    "price": 0
   },
   {
+    "name": "HOHOS Mix",
+    "image_url": "https://mir-s3-cdn-cf.behance.net/projects/404/5f6936156025231.Y3JvcCw5NTUsNzQ3LDI0MSww.jpg",
+    "price": 5
+  },
+  
+    {
     "name": "HOHOS Mix",
     "image_url": "https://mir-s3-cdn-cf.behance.net/projects/404/5f6936156025231.Y3JvcCw5NTUsNzQ3LDI0MSww.jpg",
     "price": 5
@@ -25,19 +36,57 @@
     "price": 5
   },
   {
+    "name": "SNIKERS",
+    "image_url": "https://www.snickers.com/sites/g/files/fnmzdf616/files/migrate-product-files/dryeqrv2efldaaoyceat.png",
+    "price": 5
+  },
+  {
+    "name": "Chipcy Tiger",
+    "image_url": "https://www.snickers.com/sites/g/files/fnmzdf616/files/migrate-product-files/dryeqrv2efldaaoyceat.png",
+    "price": 5
+  },
+   {
+    "name": "Chipcy Forno",
+    "image_url": "https://www.snickers.com/sites/g/files/fnmzdf616/files/migrate-product-files/dryeqrv2efldaaoyceat.png",
+    "price": 5
+  },
+    {
+    "name": "Bake Rolz",
+    "image_url": "https://www.snickers.com/sites/g/files/fnmzdf616/files/migrate-product-files/dryeqrv2efldaaoyceat.png",
+    "price": 5
+  },
+      {
+    "name": "sun bites",
+    "image_url": "https://www.snickers.com/sites/g/files/fnmzdf616/files/migrate-product-files/dryeqrv2efldaaoyceat.png",
+    "price": 5
+  },
+  {
     "name": "HOHOS EXTREME",
     "image_url": "https://edita.com.eg/wp-content/uploads/2021/03/HoHos-Extreme-300x450-1.png",
     "price": 5
   },
     {
-    "name": "Cheetos",
+    "name": "cheetos puffs",
     "image_url": "https://cdnprod.mafretailproxy.com/sys-master-root/h57/hbc/27691789877278/511790_main.jpg_480Wx480H",
     "price": 5
   },
-  
-  
+    {
+    "name": "Big Break",
+    "image_url": "https://cdnprod.mafretailproxy.com/sys-master-root/h57/hbc/27691789877278/511790_main.jpg_480Wx480H",
+    "price": 5
+  },
+   {
+    "name": "Freska",
+    "image_url": "https://cdnprod.mafretailproxy.com/sys-master-root/h57/hbc/27691789877278/511790_main.jpg_480Wx480H",
+    "price": 5
+  },
+   {
+    "name": "Cadbury",
+    "image_url": "https://cdnprod.mafretailproxy.com/sys-master-root/h57/hbc/27691789877278/511790_main.jpg_480Wx480H",
+    "price": 5
+  },
   {
-    "name": "Galaxy",
+    "name": "Galaxy checolate",
     "image_url": "https://m.media-amazon.com/images/I/61TN-njXHES.jpg",
     "price": 5
   }
